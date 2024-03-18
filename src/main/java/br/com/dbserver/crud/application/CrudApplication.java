@@ -1,4 +1,4 @@
-package br.com.dbserver.crud;
+package br.com.dbserver.crud.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
